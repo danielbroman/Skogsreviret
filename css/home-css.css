@@ -1,0 +1,20 @@
+.read-more-link {
+	font-size: 20px;
+	position:absolute;
+	bottom: 20px;
+}
+
+.frontpage-post-image {
+	max-height: 170px;
+	overflow:hidden;
+}
+
+.frontpage-post-heading {
+	margin-top:10px;
+}
+
+.frontpage-post-image img {
+	/*height:50%;*/
+	max-width: none;
+	width:400px;
+}
